@@ -1,6 +1,7 @@
 import React from 'react';
-import Visualizer from '../../components/Visualizer';
-import Quiz from '../../components/Quiz';
+import Visualizer from '../../../components/Visualizer';
+import Quiz from '../../../components/Quiz';
+
 
 const BubbleSort = () => (
   <div>
